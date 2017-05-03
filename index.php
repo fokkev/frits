@@ -48,8 +48,8 @@ if ( have_posts() ) :
                                 </div>
                             </div>
                             <p>
-                                <?php the_content(); ?>
-
+                                <?php the_content(); 
+                                echo 'heleboel veranderd';?>
                             </p>
                             <div class="row">
                                 <div class="col-md-6">
